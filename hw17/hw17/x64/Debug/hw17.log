@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\USER\Desktop\HW7\hw17\hw17\main.c(13,11): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\USER\Desktop\HW7\hw17\hw17\main.c(10,9): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  hw17.vcxproj -> C:\Users\USER\Desktop\HW7\hw17\x64\Debug\hw17.exe
